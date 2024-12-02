@@ -75,3 +75,4 @@ typings/
 # Node.js dependency directory
 node_modules/
 *.local
+package-lock.json
